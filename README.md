@@ -20,7 +20,7 @@ Aplikasi to-do list sederhana berbasis command line (CLI), dibuat menggunakan Py
 1. Pastikan Python 3 sudah terinstall di komputer kamu
 2. Clone repository ini:
 
-git clone https://github.com/nieshkhan/Projek-2.git
+git clone https://github.com/nieshkhan/cli-todo-python.git
 
 3. Masuk ke folder project:
 
